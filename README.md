@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajal...</h1>
 <h3 align="center">Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif")
+<img align="right" alt="Coding" width="500" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/61a7aee5466f2500415ffeeb-1707091688278")
 
 
 - 🔭 I’m currently working on **Myself**
